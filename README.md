@@ -1,2 +1,2 @@
 # SoilMoisturePrediction
-Final Degree Project on AI-based soil moisture prediction for smart irrigation.
+Final Degree Project on soil moisture forecasting for precision agriculture using IoT sensors and ML/RNN models.
